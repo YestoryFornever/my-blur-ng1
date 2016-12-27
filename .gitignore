@@ -53,3 +53,5 @@ build
 /release
 /bower_components
 .tmp
+
+*.log
